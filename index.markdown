@@ -6,21 +6,14 @@
 <br>
 <br>
 
-# Genevieve Awa
-
-<div class="row reverse-columns">
-<div class="column">
-
-![Headshot](img/vee.jpg)
-
-</div>
-<div class="column">
+> 👋 Hi, I’m Genevieve - a DevOps Engineer and soon-to-be Full-Stack Developer based out of Toronto.
+> 
 
 <br>
 <br>
 
 # Summary
-DevOps/Cloud Infrastructure Engineer with over 6 years of experience in designing, implementing, and maintaining scalable and secure infrastructure for enterprise applications. Proven expertise in developing automation frameworks, optimizing CI/CD pipelines, and managing cloud environments using AWS and GCP. Adept at collaborating with development teams to deliver efficient, reliable, and secure software solutions, including full-stack development for web applications. Strong background in infrastructure as code, container orchestration, database management, and front-end/back-end development. Committed to maintaining high ethical standards and ensuring compliance with industry regulations, while continuously striving for process improvements and operational excellence.
+DevOps/Cloud Infrastructure Engineer with over 6 years of experience in designing, implementing, and maintaining scalable and secure infrastructure for enterprise applications. Proven expertise in developing automation frameworks, optimizing CI/CD pipelines, and managing cloud environments using AWS and GCP. Adept at collaborating with development teams to deliver efficient, reliable, and secure software solutions. Strong background in infrastructure as code, container orchestration, and database management. Committed to maintaining high ethical standards and ensuring compliance with industry regulations, while continuously striving for process improvements and operational excellence.
 
 ---
 <br>
@@ -124,5 +117,3 @@ Humber Polytechnic - Toronto, Canada
 ---
 
 [Projects](projects.markdown) | [Contact Me](contact.markdown)
-</div>
-</div>
