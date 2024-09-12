@@ -31,7 +31,7 @@ All three pages are interconnected, creating a seamless experience for anyone vi
 
 You can view the live version of the portfolio by visiting the following link:
 
-[**View My Portfolio**](https://awsactivators.github.io/markdown-portfolio)
+[**View My Portfolio**](https://awsactivators.github.io)
 
 <br>
 
